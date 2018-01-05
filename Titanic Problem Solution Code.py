@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 16 15:17:25 2017
 
-@author: DELL
-"""
 #**************Importing the packages**********************
 import pandas as pd
 import matplotlib.pyplot as plt
