@@ -371,9 +371,6 @@ submission_neural_network.to_csv('submission_SVM.csv', index=False)
 print accuracy_score(target, prediction)
 
 
-test_data=test_data.reindex(columns=['Age', 'Pclass', 'Sex','Fare','Cabin','Embarked','title','FamilySize'])
-
-
 
 
 
